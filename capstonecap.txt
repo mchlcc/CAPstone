@@ -1,0 +1,44 @@
+
+
+Incident Response
+
+- Data na ginagamit pang report ng incident
+- Mostly napopost sa socmed
+
+
+Introdiction:
+- Talk about socmed about accident
+- rrl accidents or only 10 % are reported from any study
+- if we could use the data in the post as a means 
+to use in reporting incident we could have a better 
+percentage of reporting incidents in socmed
+- reported percentage, if we could create a system
+
+Project Contex
+- how will the system do it
+- what data to use
+
+Purpose and Description
+- 
+
+
+
+Objectives
+-
+
+- stakeholder = batangas citizens
+- organization 
+
+
+Research Local
+
+- gaano kataas percentage accidents in batangas
+- gaano kadami percentage ng narereport na accident in socmed
+
+Related Lit/System that talks about the idea:
+
+- Most accidents are posted in socmed
+
+Conclusion 
+
+Posting in scomed can contain data to be used for reporting.
